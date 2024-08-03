@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project_CodeCrafters02/",
+    "build": "vite build --base=/js_106_Dexter-24/",
     "preview": "vite preview"
   },
   "devDependencies": {
